@@ -1,1 +1,1 @@
-Emotion minig and sentiment analysis in lyrics from 'Forró'
+#Emotion mining and sentiment analysis in lyrics from 'Forró'
