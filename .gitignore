@@ -1,4 +1,4 @@
 .vscode
-.nlp
+.venv
 .ipynb_checkpoints
 __pycache__
